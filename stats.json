@@ -1,0 +1,23 @@
+{
+  "total_downloads": 2,
+  "total_ads_shown": 1,
+  "ad_clicks": {
+    "app_ad": {
+      "shown": 1,
+      "clicks": 0
+    }
+  },
+  "daily_stats": {
+    "2026-01-05": {
+      "downloads": 2,
+      "ads_shown": 1,
+      "clicks": 0
+    }
+  },
+  "user_stats": {
+    "7796726010": {
+      "total_downloads": 2,
+      "first_use": "2026-01-05"
+    }
+  }
+}
